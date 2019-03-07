@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45219" started-at="2019-03-07T08:49:36Z" finished-at="2019-03-07T08:50:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45219" started-at="2019-03-07T08:49:36Z" finished-at="2019-03-07T08:50:21Z">
+      <class name="findpw_PC.findpw_PC.AppTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:findpw_PC.findpw_PC.AppTest@13deb50e]" name="setup" is-config="true" duration-ms="4793" started-at="2019-03-07T08:49:36Z" finished-at="2019-03-07T08:49:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="findID()[pri:0, instance:findpw_PC.findpw_PC.AppTest@13deb50e]" name="findID" duration-ms="30232" started-at="2019-03-07T08:49:40Z" finished-at="2019-03-07T08:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findID -->
+        <test-method status="PASS" signature="end()[pri:0, instance:findpw_PC.findpw_PC.AppTest@13deb50e]" name="end" is-config="true" duration-ms="10140" started-at="2019-03-07T08:50:11Z" finished-at="2019-03-07T08:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- findpw_PC.findpw_PC.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
