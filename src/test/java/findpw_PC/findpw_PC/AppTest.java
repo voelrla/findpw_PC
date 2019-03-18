@@ -32,7 +32,7 @@ public class AppTest extends pushbullet_login {
 
 		$(By.id("_name")).sendKeys("이승재");
 		$(By.id("_id")).sendKeys("wmtest04@yopmail.com");
-		$(By.id("_phone")).sendKeys("01022985563");
+		$(By.id("_phone")).sendKeys("01026989109");
 
 		$(By.xpath("//span[contains(.,'인증번호 발송')]")).click();
 		Pb();
